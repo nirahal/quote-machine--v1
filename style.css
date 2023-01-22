@@ -1,0 +1,123 @@
+.height{
+    height: 100vh; 
+}
+.width{
+    max-width: 600px;
+}
+
+.size{
+    font-size: 30px;
+   
+  
+}
+
+
+.author{
+    
+    text-align: right;
+}
+
+.pink{
+    color: pink;
+}
+.black{
+    color: black;
+}
+.grey{
+    color: grey;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.purple{
+    color: purple;
+}
+.yellow{
+    color: yellow;
+}
+.red{
+    color: red;
+}
+
+.pinkBg{
+    background-color: pink;
+    color: white;
+    border: 1px solid pink;
+}
+.blackBg{
+    background-color: black;
+    color: white;
+    border-color :  black;
+}
+.greyBg{
+    background-color: grey;
+    color: white;
+    border-color :  grey;
+}
+.greenBg{
+    background-color: green;
+    color: white;
+    border-color :  green;
+}
+.blueBg{
+    background-color: blue;
+    border-color :  blue;
+    color: white;
+}
+.purpleBg{
+    background-color: purple;
+    color: white;
+    border-color :  purple;
+}
+.yellowBg{
+    background-color: yellow;
+    color: white;
+    border-color :  yellow;
+}
+.redBg{
+    background-color: red;
+    color: white;
+    border-color :  red;
+}
+.btn:hover{
+    filter :brightness(1.2);
+    color: white
+}
+.logo.red:hover{
+    color: red;
+    filter :brightness(80%);
+}
+.logo.green:hover{
+    color: green;
+    filter :brightness(80%);
+}
+.logo.grey:hover{
+    color: grey;
+    filter :brightness(80%);
+}
+.logo.black:hover{
+    color: black;
+    filter :brightness(80%);
+}
+.logo.pink:hover{
+    color: pink;
+    filter :brightness(80%);
+}
+.logo.yellow:hover{
+    color: yellow;
+    filter :brightness(80%);
+}
+.logo.blue:hover{
+    color: blue;
+    filter :brightness(80%);
+}
+.logo.purple:hover{
+    color: purple;
+    filter :brightness(80%);
+}
+
+
+	
